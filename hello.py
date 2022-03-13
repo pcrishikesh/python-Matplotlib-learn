@@ -15,6 +15,6 @@ ps.plot( y_aex, color1)
 ps.xlabel("hello guys")
 ps.ylabel("hello friends")
 ps.title("GUYZZ")
-
+ps.grid()
 
 ps.show()
